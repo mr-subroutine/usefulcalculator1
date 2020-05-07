@@ -1,0 +1,9 @@
+C:\Users\gamef\source\repos\UsefulCalculator1\UsefulCalculator1\bin\Debug\UsefulCalculator1.exe.config
+C:\Users\gamef\source\repos\UsefulCalculator1\UsefulCalculator1\bin\Debug\UsefulCalculator1.exe
+C:\Users\gamef\source\repos\UsefulCalculator1\UsefulCalculator1\bin\Debug\UsefulCalculator1.pdb
+C:\Users\gamef\source\repos\UsefulCalculator1\UsefulCalculator1\obj\Debug\UsefulCalculator1.Form1.resources
+C:\Users\gamef\source\repos\UsefulCalculator1\UsefulCalculator1\obj\Debug\UsefulCalculator1.Properties.Resources.resources
+C:\Users\gamef\source\repos\UsefulCalculator1\UsefulCalculator1\obj\Debug\UsefulCalculator1.csproj.GenerateResource.cache
+C:\Users\gamef\source\repos\UsefulCalculator1\UsefulCalculator1\obj\Debug\UsefulCalculator1.csproj.CoreCompileInputs.cache
+C:\Users\gamef\source\repos\UsefulCalculator1\UsefulCalculator1\obj\Debug\UsefulCalculator1.exe
+C:\Users\gamef\source\repos\UsefulCalculator1\UsefulCalculator1\obj\Debug\UsefulCalculator1.pdb
