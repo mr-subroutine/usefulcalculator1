@@ -17,8 +17,8 @@ namespace UsefulCalculator1
         protected int lengthAndWidthCount = 0;
         protected int length;
         protected int width;
-        protected int fdegrees;
-        protected int cdegrees;
+        protected const double PI = 3.14;
+        protected double areaCircle;
 
         public Form1()
         {
@@ -61,6 +61,15 @@ namespace UsefulCalculator1
             lengthAndWidthCount = 1;
             MessageBox.Show("The area is: " + value, "ANSWER", MessageBoxButtons.OK, MessageBoxIcon.Question);
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+           int radiusVal = Convert.ToInt32(Microsoft.VisualBasic.Interaction.InputBox("Enter your radius: ",
+                        "Get area of a circle"));
+            areaCircle = PI * Math.Pow(radiusVal, 2);
+            MessageBox.Show("The area of " + radiusVal.ToString() + "is " + areaCircle.ToString());
         }
 
         private void button3_Click(object sender, EventArgs e)
